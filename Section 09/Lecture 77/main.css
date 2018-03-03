@@ -1,0 +1,45 @@
+﻿body
+{
+}
+
+#third {
+    color: red;
+}
+
+.c-red {
+    color: red;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active {
+    color: pink;
+}
+
+a:link {
+    color: green;
+}
+
+p::first-letter {
+    font-size: 30px;
+}
+
+p::first-line {
+    color: green;
+}
+
+div p { /* All p tags after a div */
+}
+
+div > p { /* All p tags immediately beneath a div */
+}  
+  
+div ~ p { } /* All p tags that are a sibling following a div */
+         
+div + p {} /* All p tags that are an immediate sibling following a div */
