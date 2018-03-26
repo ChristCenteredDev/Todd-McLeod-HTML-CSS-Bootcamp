@@ -5,7 +5,8 @@
 Todd McLeod's Udemy Course: HTML &amp; CSS Bootcamp <br>
 Course: (https://www.udemy.com/html-tutorial/)
 
-*Course Description: Learn How To Make Websites from a University Professor in Computer Science with over 15 years of teaching experience.*
+*Course Description: Learn How To Make Websites from a University Professor in Computer Science with over 15 years of teaching experience.*<br>
+<br>Course length: <b>32.5 hour's</b>
 
 ### Projects:
 Contractor Website: (Unfinished) <br>
