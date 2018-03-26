@@ -14,20 +14,20 @@ Teaching Website: (Unfinished) <br>
 Travel Website: (Unfinished) <br>
 
 ### Section Overview
-- Section 01: Getting Started
-- Section 02: Understanding The Internet & World Wide Web
-- Section 03: An Introduction to HTML
-- Section 04: An Introduction to CSS
-- Section 05: Configuring Your Environment
-- Section 06: Becoming Skilled with Github
-- Section 07: HTML Essentials
-- Section 08: CSS Essentials
-- Section 09: CSS Selectors
-- Section 10: CSS Order & Specificity
-- Section 11: Formatting Text
-- Section 12: Structuring Documents
-- Section 13: Layout Fundamentals - Box Model & Display
-- Section 14: Layout with Flexbox
+- Section 01: Getting Started &check;
+- Section 02: Understanding The Internet & World Wide Web &check; 
+- Section 03: An Introduction to HTML &check;
+- Section 04: An Introduction to CSS &check;
+- Section 05: Configuring Your Environment &check;
+- Section 06: Becoming Skilled with Github &check;
+- Section 07: HTML Essentials &check;
+- Section 08: CSS Essentials &check;
+- Section 09: CSS Selectors &check;
+- Section 10: CSS Order & Specificity &check;
+- Section 11: Formatting Text &check;
+- Section 12: Structuring Documents &check;
+- Section 13: Layout Fundamentals - Box Model & Display &check;
+- Section 14: Layout with Flexbox &check;
 - Section 15: Media Queries
 - Section 16: Flexbox Design Patterns
 - Section 17: Layout with Position
