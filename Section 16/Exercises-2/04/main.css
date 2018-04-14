@@ -1,0 +1,49 @@
+body, html, header, article, aside, footer {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+     
+}
+
+header, article, aside, footer {
+    width: 100%;
+}
+
+header {
+    background-color: maroon;
+    text-align: center;
+    padding: 10px;
+}
+
+article {
+    background-color: blue;
+}
+
+aside:first-of-type {
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+}
+
+aside:last-of-type {
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 10px;
+}
+
+p { 
+    margin: 0;
+    padding: 10px;
+}
