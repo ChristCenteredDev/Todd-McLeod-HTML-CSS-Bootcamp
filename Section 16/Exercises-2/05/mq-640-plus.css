@@ -1,0 +1,31 @@
+header {
+    order: 0;
+}
+
+nav {
+    order: 1;
+}
+
+article {
+    order: 2;
+}
+
+aside {
+    order: 3;
+}
+
+footer {
+    order: 4;
+}
+
+aside {
+    width: 15%;
+}
+
+article {
+    width: 70%;
+}
+
+nav {
+    width: 15%;
+}
