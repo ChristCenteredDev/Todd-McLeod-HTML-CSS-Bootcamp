@@ -29,7 +29,7 @@ Travel Website: (Unfinished) <br>
 - Section 13: Layout Fundamentals - Box Model & Display &check;
 - Section 14: Layout with Flexbox &check;
 - Section 15: Media Queries &check;
-- Section 16: Flexbox Design Patterns
+- Section 16: Flexbox Design Patterns &check;
 - Section 17: Layout with Position
 - Section 18: Layout with Float
 - Section 19: Background
