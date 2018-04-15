@@ -1,0 +1,21 @@
+div {
+    border: 7px solid black;
+}
+
+nav {
+    border: 7px solid red;
+    display: inline-block;
+    float: left;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    padding: 10px;
+}
+
+p {
+    padding: 10px 10px 10px 130px;
+}
