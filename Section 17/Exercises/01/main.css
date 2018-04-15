@@ -1,0 +1,7 @@
+footer {
+    padding: 20px;
+    background-color: darkred;
+    position: fixed;
+    width: 100%;
+    top: 96vh;
+}
