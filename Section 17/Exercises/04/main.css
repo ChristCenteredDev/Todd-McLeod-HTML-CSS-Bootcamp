@@ -1,0 +1,30 @@
+body, html {
+    margin: 0;
+}
+
+.absolute {
+    border: 3px solid red;
+    width: 20%;
+    position: absolute;
+    left: 20%;
+}
+
+.container {
+    border: 3px solid black;
+    width: 40%;
+    margin: 0 20% 0 40%;
+}
+
+.absolute, .container {
+    height: 50vh;
+    display: inline-block;
+}
+
+div {
+    margin: 0;
+     
+}
+
+p {
+    padding: 10px;
+}
