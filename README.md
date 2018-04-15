@@ -30,7 +30,7 @@ Travel Website: (Unfinished) <br>
 - Section 14: Layout with Flexbox &check;
 - Section 15: Media Queries &check;
 - Section 16: Flexbox Design Patterns &check;
-- Section 17: Layout with Position
+- Section 17: Layout with Position &check;
 - Section 18: Layout with Float
 - Section 19: Background
 - Section 20: Refactor Challenge
