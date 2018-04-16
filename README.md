@@ -33,7 +33,7 @@ Travel Website: (Unfinished) <br>
 - Section 17: Layout with Position &check;
 - Section 18: Layout with Float &check;
 - Section 19: Background &check;
-- Section 20: Refactor Challenge
+- Section 20: Refactor Challenge &check;
 - Section 21: Full-Page Above-The-Fold
 - Section 22: Expanding Your Skillset
 - Section 23: Graphics
