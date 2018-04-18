@@ -7,7 +7,7 @@ html, body {
     height: 100vh;
     background-image: url('./img/background-photo-mobile-devices.jpg');
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
     background-origin: border-box;
     background-size: cover;
     background-attachment: fixed;
