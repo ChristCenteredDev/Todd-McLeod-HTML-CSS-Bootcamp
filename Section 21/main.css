@@ -37,7 +37,9 @@ h1, h2 {
 }
 
 .button {
-    height: 21px;
-    width: 160px;
-    
+    color: white;
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+    padding: 10px;
 }
