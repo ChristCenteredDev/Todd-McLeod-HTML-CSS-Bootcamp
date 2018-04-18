@@ -44,3 +44,8 @@ h1, h2 {
     padding: 10px;
     cursor: pointer;
 }
+
+.button:hover {
+    color: greenyellow;
+    border: 3px solid greenyellow;
+}
