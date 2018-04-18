@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+}
+
+#index-atf {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./img/background-photo-mobile-devices.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.index-atf {
+    display: flex;
+    
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.15rem;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+
+.button {
+    height: 21px;
+    width: 160px;
+    
+}
