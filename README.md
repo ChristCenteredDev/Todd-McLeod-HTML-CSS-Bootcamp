@@ -34,8 +34,8 @@ Travel Website: (Unfinished) <br>
 - Section 18: Layout with Float &check;
 - Section 19: Background &check;
 - Section 20: Refactor Challenge &check;
-- Section 21: Full-Page Above-The-Fold
-- Section 22: Expanding Your Skillset
+- Section 21: Full-Page Above-The-Fold &check;
+- Section 22: Expanding Your Skillset &check;
 - Section 23: Graphics
 - Section 24: Full-Page Background
 - Section 25: Favicon
